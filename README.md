@@ -22,4 +22,4 @@ This project is a simple weather application built using HTML, CSS, Bootstrap, a
 
 ## Contributors
 
-- [Your Name or Username]
+- [Sahil Anand]
